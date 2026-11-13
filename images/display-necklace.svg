@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 650" role="img">
+<defs><linearGradient id="cloth" x2="1" y2="1"><stop stop-color="#e9dfca"/><stop offset="1" stop-color="#b8a27c"/></linearGradient><linearGradient id="metal"><stop stop-color="#8c672e"/><stop offset=".5" stop-color="#f0d99a"/><stop offset="1" stop-color="#a27b3e"/></linearGradient></defs>
+<rect width="800" height="650" fill="#f5f2eb"/><ellipse cx="400" cy="535" rx="190" ry="26" fill="#a99570" opacity=".2"/>
+<path d="M300 145 Q400 95 500 145 L555 390 Q400 475 245 390Z" fill="url(#cloth)" stroke="#c2aa79" stroke-width="5"/>
+<path d="M300 145 Q400 190 500 145" fill="none" stroke="#fff" stroke-width="5" opacity=".5"/>
+<path d="M330 160 C270 255 300 350 400 405 C500 350 530 255 470 160" fill="none" stroke="url(#metal)" stroke-width="9"/>
+<path d="M400 405 l-25 28 25 38 25-38Z" fill="#fff0c4" stroke="#a27b3e" stroke-width="5"/>
+<path d="M245 390 Q400 475 555 390 L590 445 Q400 540 210 445Z" fill="#a48d64"/>
+</svg>
